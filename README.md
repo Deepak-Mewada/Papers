@@ -2,6 +2,7 @@
 
 ## Deep Learning on EEG
 
+#### Review paper
 1. Deep learning applied to electroencephalogram data in mental disorders: A systematic review
 https://www.sciencedirect.com/science/article/pii/S0301051121001101?via%3Dihub
 
@@ -14,6 +15,18 @@ Journal of Neural Engineering, Volume 16, Number 3
 3.LEARNING REPRESENTATIONS FROM EEG WITH DEEP RECURRENT-CONVOLUTIONAL NEURAL NETWORKS 
 https://arxiv.org/abs/1511.06448
 Pouya Bashivan Electrical and Computer Engineering Department University of Memphis Memphis, TN , USA {pbshivan}@memphis.edu arXiv:1511.06448v3  [cs.LG]  29 Feb 2016 MohammedYeasin Electrical and Computer Engineering Department University of Memphis Memphis, TN , USA {myeasin}@memphis.edu ABSTRACT Irina Rish IBMT.J. Watson Research Center Yorktown Heights, NY, USA {rish}@us.ibm.com Noel Codella IBMT.J. Watson Research Center Yorktown Heights, NY, USA {nccodell}@us.ibm.com
+
+####CNN on EEG
+On the Classification of SSVEP-Based Dry-EEG Signals via Convolutional Neural Networks
+https://arxiv.org/abs/1805.04157
+
+
+##GAN On EEG
+Denoising Time Series Data Using Asymmetric Generative Adversarial Networks
+https://link.springer.com/chapter/10.1007/978-3-319-93040-4_23
+video:https://youtu.be/eb89JQm53JY
+
+
 
 
 # Resources
