@@ -1,6 +1,7 @@
-# Papers
-
-## Deep Learning on EEG
+# Resources
+DL on EEG: DeepBCI http://deepbci.korea.ac.kr/conference/
+## Papers
+### Deep Learning on EEG
 
 #### Review paper
 1. Deep learning applied to electroencephalogram data in mental disorders: A systematic review
